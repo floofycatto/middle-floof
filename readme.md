@@ -1,5 +1,6 @@
 # Middle Floof
-![](https://i.imgur.com/rUqeIMf.png)
+![middle floof](https://github.com/user-attachments/assets/593541d5-4874-4f55-8ed4-1bd822ad022d)
+
 - *Vanilla Centered TF2 Hud with default health and ammo in the middle*
 # Description
 **It clears the clutters and keeps the Shit.**
