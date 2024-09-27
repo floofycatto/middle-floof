@@ -9,13 +9,17 @@
 **In other-other words, this is NOT another generic hud with random numbers floating at the centre of the screen. You weirdos.**
 
 # Features Include
-- Health, ammo, and more moved closer to the middle of the screen
-- Vanilla TF2 visuals
-- Increased readability for intense fights
-- Supports all resolutions (including 4:3, 16:9, 16:10, etc.)
+- Vac icon now under cursor
+- Viewmodel on bottom left
+- chat on bottom left
+- damage numbers moved down slightly
+
+The mean reason I had these changes was because when the chat was in the middle it was kinda getting in the way of the uncletopia map selection
 
 # Install Instructions
-1. [Download Here](https://github.com/Vexcenot/Middle-Mann/archive/refs/heads/master.zip)
+**ONLYT INSTALL FROM THE RELEASES**
+reason being is because idk how to sync up the files to the master so Imma just upload it to the releases
+
 2. Open the zip
 3. Drag and drop the folder into your customs folder. (C:\SteamLibrary\steamapps\common\Team Fortress 2\tf\custom)
 
