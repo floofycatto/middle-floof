@@ -32,6 +32,7 @@
 
 
 # Screenshots 
-![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/361560a3-98b3-42e5-8941-e47d02597fe1](https://github.com/user-attachments/assets/23a0c16d-a0b0-43c0-af25-efb2fc4f92c7))
-![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/bd588f10-cbc2-4aac-a013-f076b52f26e9](https://github.com/user-attachments/assets/dcc77a49-0330-40af-bf94-43f98d00ac5e))
-![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/290a4155-6002-4cb4-ad06-6022e36dc61e](https://github.com/user-attachments/assets/6b8cfb93-c352-47d1-8ad3-1e3d2a2be6e8))
+
+![chat plus viewmodel](https://github.com/user-attachments/assets/6926ef4f-df76-439b-a626-3b8f82bd2f4f)
+![centered vac](https://github.com/user-attachments/assets/82f3f702-1c56-48c9-b022-93f196fe88a0)
+![20240926203054_1](https://github.com/user-attachments/assets/631d5b92-5040-46d9-9d21-dbdbc6aba1af)
