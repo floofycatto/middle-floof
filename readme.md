@@ -32,12 +32,6 @@
 
 
 # Screenshots 
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/361560a3-98b3-42e5-8941-e47d02597fe1)
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/bd588f10-cbc2-4aac-a013-f076b52f26e9)
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/290a4155-6002-4cb4-ad06-6022e36dc61e)
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/bc1df8d9-149e-43dd-8b3d-7ad08698bd28)
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/f2e51909-fbff-4e78-8b89-73a44f9b2e00)
-![image](https://github.com/Vexcenot/Middle-Mann/assets/41777800/9edb8978-59e9-463b-ad2d-73fb77e63144)
-
-[**See more screen shots here**](https://imgur.com/a/B1572CO)
-
+![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/361560a3-98b3-42e5-8941-e47d02597fe1](https://github.com/user-attachments/assets/23a0c16d-a0b0-43c0-af25-efb2fc4f92c7))
+![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/bd588f10-cbc2-4aac-a013-f076b52f26e9](https://github.com/user-attachments/assets/dcc77a49-0330-40af-bf94-43f98d00ac5e))
+![image]([https://github.com/Vexcenot/Middle-Mann/assets/41777800/290a4155-6002-4cb4-ad06-6022e36dc61e](https://github.com/user-attachments/assets/6b8cfb93-c352-47d1-8ad3-1e3d2a2be6e8))
